@@ -33,9 +33,10 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ranojoy-saha">
-    <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/ranojoy-saha">
+  <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   <a href="https://github.com/ron999coder">
     <img src="https://img.shields.io/badge/GitHub-cc0000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
