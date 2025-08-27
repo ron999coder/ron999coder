@@ -1,11 +1,15 @@
-<!-- 🔥 Bold Red Header -->
+<!-- 🔥 Bold Red Header with Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+%26+DevOps+Explorer;Always+Learning+New+Tech" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:cc0000&height=180&section=header&text=Ranojoy%20Saha&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20🔥%20DevOps%20Explorer&descAlign=50&descAlignY=85" />
 
 ---
 
 ## 🚀 About Me  
 - 💻 Passionate about **building impactful projects**  
-- 🔥 Skilled in **C,Java, Python, AWS**  
+- 🔥 Skilled in **C, Java, Python, AWS**  
 - 🌐 Exploring **Cloud & Scalable Systems**  
 - 📬 Reach me: **[ranojoysaha6@gmail.com](mailto:ranojoysaha6@gmail.com)**  
 
@@ -13,8 +17,7 @@
 
 ## 🛠 Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,linux,html,css,aws,git,github&perline=6" />
-
+<img src="https://skillicons.dev/icons?i=c,java,python,aws,git,github&perline=6" />
 </p>
 
 ---
@@ -22,11 +25,30 @@
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ron999coder&show_icons=true&theme=radical&count_private=true" height="170" />
-
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron999coder&theme=radical&layout=compact" height="150" />
+</p>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ron999coder&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ron999coder&theme=radical" />
+</p>
+
+---
+
+## 🎥 Tech Video  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2LaAJq1lB1Q" target="_blank">
+    <img src="https://img.youtube.com/vi/2LaAJq1lB1Q/0.jpg" alt="Intro to AWS DevOps - Cloud Computing" width="600" />
+  </a>
 </p>
 
 ---
@@ -49,6 +71,13 @@
 
 ## 💡 Quote  
 > *"Code like a beast, debug like a boss."*  
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ron999coder&color=red&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
