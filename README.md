@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,aws,git,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=c,c++,java,python,aws,linux,html,css,git,github&perline=6" />
 </p>
 
 ---
@@ -31,17 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron999coder&theme=radical&layout=compact" height="150" />
 </p>
 
----
 
-## 🐍 GitHub Snake (Contributions)
-<p align="center">
-  <!-- Light mode -->
-  <img src="https://raw.githubusercontent.com/ron999coder/ron999coder/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Animation" />
-  <!-- Dark mode -->
-  <img src="https://raw.githubusercontent.com/ron999coder/ron999coder/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Animation (Dark)" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -54,7 +44,7 @@
   <a href="mailto:ranojoysaha6@gmail.com">
     <img src="https://img.shields.io/badge/Email-b30000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
+  <a href="https://instagram.com/ranojoy__saha">
     <img src="https://img.shields.io/badge/Instagram-990000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
