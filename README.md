@@ -13,14 +13,13 @@
 - 🌐 Exploring **Cloud & Scalable Systems**  
 - 📬 Reach me: **[ranojoysaha6@gmail.com](mailto:ranojoysaha6@gmail.com)**  
 
----
 
 ## 🛠 Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,c++,java,python,aws,linux,html,css,git,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=c,java,python,aws,linux,html,css,git,github&perline=6" />
 </p>
 
----
+
 
 ## 📊 GitHub Analytics  
 <p align="center">
