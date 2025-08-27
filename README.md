@@ -33,37 +33,29 @@
 
 ---
 
-## 🏆 Achievements  
+## 🐍 GitHub Snake (Contributions)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ron999coder&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ron999coder&theme=radical" />
-</p>
-
----
-
-## 🎥 Tech Video  
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=2LaAJq1lB1Q" target="_blank">
-    <img src="https://img.youtube.com/vi/2LaAJq1lB1Q/0.jpg" alt="Intro to AWS DevOps - Cloud Computing" width="600" />
-  </a>
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/ron999coder/ron999coder/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Animation" />
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/ron999coder/ron999coder/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Animation (Dark)" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
- <a href="https://www.linkedin.com/in/ranojoy-saha">
-  <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/ranojoy-saha">
+    <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/ron999coder">
     <img src="https://img.shields.io/badge/GitHub-cc0000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ranojoysaha6@gmail.com">
     <img src="https://img.shields.io/badge/Email-b30000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-990000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -83,3 +75,4 @@
 
 <!-- 🔥 Bold Red Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:990000&height=120&section=footer" />
+
