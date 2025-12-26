@@ -36,13 +36,7 @@
 </p>
 
 ## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ron999coder&show_icons=true&theme=radical&count_private=true" height="170" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron999coder&theme=radical&layout=compact" height="150" />
-</p>
 
 [![@ron999code’s Holopin board](https://holopin.me/ron999coder)](https://holopin.io/@ron999coder)
 
