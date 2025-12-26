@@ -48,7 +48,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
- <a href="https://www.linkedin.com/in/ranojoy-saha">
+ <a href="https://www.linkedin.com/in/ranojoy-saha-bb6a732b6">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
